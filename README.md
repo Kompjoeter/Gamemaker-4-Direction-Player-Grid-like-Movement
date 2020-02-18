@@ -16,10 +16,10 @@ Features
 
 Instructions (For usage in Gamemaker)
 ----------
-1-Download the files from this page.
-2-Start Gamemaker Studio 2.
-3-Open the .yyp file inside the project folder in Gamemaker Studio 2.
-4-Get creative!
+1. Download the files from this page.
+2. Start Gamemaker Studio 2.
+3. Open the .yyp file inside the project folder in Gamemaker Studio 2.
+4. Get creative!
 
 Credits
 ----------
