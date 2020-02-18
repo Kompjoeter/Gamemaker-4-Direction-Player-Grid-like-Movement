@@ -1,6 +1,6 @@
 # Gamemaker-4-Direction-Player-Grid-like-Movement
 
-(A 4 Directional Player Movement on a 'simulated grid' (Step sizes of X pixels).)
+(A 4 Directional Player Movement on a 'simulated grid' (Step sizes of X pixels) for GameMaker Studio 2)
 
 Creator's Note
 ---------
